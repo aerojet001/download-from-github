@@ -4,5 +4,18 @@
   "createdAt": "2026-10-16T03:15:45.990Z",
   "filename": "0bd638e9-f528-4c35-8b0f-1ac95111c6ef.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "ec683519-2adc-43fd-914f-dfe8e164c13b",
+      "role": "user",
+      "content": "Goto GitHub and let’s work on crm project",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-16T03:18:57.423Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
